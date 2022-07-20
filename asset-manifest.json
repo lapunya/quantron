@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quantron/static/css/main.0363fb6a.css",
+    "main.js": "/quantron/static/js/main.f16e8711.js",
+    "index.html": "/quantron/index.html",
+    "main.0363fb6a.css.map": "/quantron/static/css/main.0363fb6a.css.map",
+    "main.f16e8711.js.map": "/quantron/static/js/main.f16e8711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0363fb6a.css",
+    "static/js/main.f16e8711.js"
+  ]
+}
