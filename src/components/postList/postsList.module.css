@@ -1,7 +1,16 @@
+.postListBox {
+    padding-top: 20px;
+}
+
 .postList {
     width: 100%;
     max-width: 700px;
     margin: 0 auto;
     padding: 0;
     list-style: none;
+}
+
+.postListTitle {
+    text-align: center;
+    margin-bottom: 20px;
 }
